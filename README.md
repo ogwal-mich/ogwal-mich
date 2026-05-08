@@ -1,3 +1,7 @@
+<div align="center">
+
+![Banner](https://canva.link/5hwagh6gmbzdyia)
+  
 # My name is Daniel Mich🪐
 
 ## About me
@@ -26,3 +30,4 @@ Im a computer science student with the goal to transform the immediate community
 
 - GitHub: [ogwal-mich](https://github.com/ogwal-mich)
 - Email: ogwal-mich@gmail.com
+</div>
