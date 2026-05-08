@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://canva.link/5hwagh6gmbzdyia)
+
   
-# My name is Daniel Mich🪐
+# Daniel Mich🪐
 
 ## About me
 
