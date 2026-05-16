@@ -4,32 +4,29 @@
   <img src="banner.png" width="100%">
 </p>
   
-# Daniel Mich🪐
+# Mushemeza Onesmus🪐
 
 ## About me
 
-Im a computer science student with the goal to transform the immediate community and as a result the world through creating digital solutions for problems that have plagued nations.
+Im a computer science student with the goal to transformt the community into the digital world through creating digital solutions for problems that have inconvenienced the nations.
 
 ## What am i currently learning?
 
-- Python, Javascript, React
-- System Architecture
-- Machine Learning
-
+- web application
+- modern world
+  
 ## Tech Interests
-
-- Large Scale System Distribution
+- cyber security
 - Artificial Intelligence
-- Game Development
+- web Development
 
 ## Badges
 
-![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![tiktok Badge](https://img.shields.io/badge/tiktok-3670A0?style=for-the-badge&logo=tiktok&logoColor=ffdd54)
+![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=Black)
 
 ## Contact Me
 
-- GitHub: [ogwal-mich](https://github.com/ogwal-mich)
-- Email: ogwal-mich@gmail.com
+- GitHub: [mushemeza onesmus](https://github.com/mushemeza onesmus)
+- Email: mushemezaonesmus178@gmail.com
 </div>
